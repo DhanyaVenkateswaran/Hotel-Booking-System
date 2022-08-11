@@ -169,7 +169,7 @@ session_start();
                 <div class="col-md-4">
                     <div class="card mb-4 box-shadow">
                         <div class="card-header">
-                            <h5 class="my-0 font-weight-normal">ITC Grand Chola</h5>
+                            <h5 class="my-0 text-center font-weight-normal">ITC Grand Chola</h5>
                         </div>
                         <img class="card-img-top" data-src="holder.js/100px225?theme=thumb&amp;bg=55595c&amp;fg=eceeef&amp;text=Thumbnail" alt="Thumbnail [100%x225]" style="height: 225px; width: 100%; display: block;" src="image/deluxe.jpg" data-holder-rendered="true">
                         <div class="card-body">
@@ -194,7 +194,7 @@ session_start();
                 <div class="col-md-4">
                     <div class="card mb-4 box-shadow">
                         <div class="card-header">
-                            <h5 class="my-0 font-weight-normal">Taj Connemara</h5>
+                            <h5 class="my-0 text-center font-weight-normal">Taj Connemara</h5>
                         </div>
                         <img class="card-img-top" data-src="holder.js/100px225?theme=thumb&amp;bg=55595c&amp;fg=eceeef&amp;text=Thumbnail" alt="Thumbnail [100%x225]" src="image/double.jpg" data-holder-rendered="true" style="height: 225px; width: 100%; display: block;">
                         <div class="card-body">
@@ -217,7 +217,7 @@ session_start();
                 <div class="col-md-4">
                     <div class="card mb-4 box-shadow">
                         <div class="card-header">
-                            <h5 class="my-0 font-weight-normal">Residency Towers</h5>
+                            <h5 class="my-0 text-center font-weight-normal">Residency Towers</h5>
                         </div>
                         <img class="card-img-top" data-src="holder.js/100px225?theme=thumb&amp;bg=55595c&amp;fg=eceeef&amp;text=Thumbnail" alt="Thumbnail [100%x225]" src="image/single.jpg" data-holder-rendered="true" style="height: 225px; width: 100%; display: block;">
                         <div class="card-body">
@@ -477,7 +477,7 @@ session_start();
 </main>
 
 <footer class="container">
-    <p>&copy; Company 2017-2018</p>
+    <p>&copy; Done by Dhanya Venkateswaran</p>
 </footer>
 <script src="js/utilityFunctions.js"></script>
 <script src="node_modules/jquery/dist/jquery.min.js"></script>
