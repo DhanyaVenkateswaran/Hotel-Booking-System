@@ -1,6 +1,6 @@
 # Hotel Management System
 
-##About
+## About
 A WebApp designed to allow tourists to book hotels, view all the hotels and their availability and render the hotel’s location on map.
 
 ## Setup
